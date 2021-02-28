@@ -1,0 +1,20 @@
+.transactionhistory {
+  width: 700px;
+  margin: auto;
+  background-color: rgb(176, 176, 253);
+  margin-bottom: 50px;
+}
+
+.head {
+  background-color: rgb(79, 79, 238);
+  color: aliceblue;
+  height: 30px;
+  text-transform: uppercase;
+}
+
+.info {
+  text-align: center;
+  border: 2px solid beige;
+  font-weight: 400;
+  height: 30px;
+}
